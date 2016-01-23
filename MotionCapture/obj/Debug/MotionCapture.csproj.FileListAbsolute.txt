@@ -1,0 +1,74 @@
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\MotionCapture.exe.config
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\MotionCapture.exe
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\MotionCapture.pdb
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.dll
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Imaging.dll
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Math.dll
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Video.dll
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Video.FFMPEG.dll
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Vision.dll
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\obj\Debug\MotionCapture.csprojResolveAssemblyReference.cache
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\obj\Debug\MotionCapture.MotionCCTV.resources
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\obj\Debug\MotionCapture.Properties.Resources.resources
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\obj\Debug\MotionCapture.csproj.GenerateResource.Cache
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\obj\Debug\MotionCapture.exe
+c:\users\subash\documents\visual studio 2013\Projects\MotionCapture\MotionCapture\obj\Debug\MotionCapture.pdb
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Controls.dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Genetic.dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Neuro.dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Controls.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Genetic.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Imaging.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Math.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Neuro.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Video.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Subash\Documents\Visual Studio 2013\Projects\MotionCapture\MotionCapture\bin\Debug\AForge.Vision.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\MotionCapture.exe.config
+C:\Users\User\Downloads\MotionCapture\MotionCapture\obj\Debug\MotionCapture.exe
+C:\Users\User\Downloads\MotionCapture\MotionCapture\obj\Debug\MotionCapture.pdb
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\MotionCapture.exe
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\MotionCapture.pdb
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Controls.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Fuzzy.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Genetic.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Imaging.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.MachineLearning.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Math.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Neuro.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Video.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Video.VFW.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\bin\Debug\AForge.Vision.xml
+C:\Users\User\Downloads\MotionCapture\MotionCapture\obj\Debug\MotionCapture.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\MotionCapture\MotionCapture\obj\Debug\MotionCapture.MotionCCTV.resources
+C:\Users\User\Downloads\MotionCapture\MotionCapture\obj\Debug\MotionCapture.Properties.Resources.resources
+C:\Users\User\Downloads\MotionCapture\MotionCapture\obj\Debug\MotionCapture.csproj.GenerateResource.Cache
